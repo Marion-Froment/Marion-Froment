@@ -2,7 +2,7 @@
 
 ### Bonjour 👋 
 * 👩 Je m'appelle Marion!
-* 🌱 Développeuse web front-end spécialisé en React.js.
+* 🌱 Développeuse web front-end spécialisée en React.js.
 * 🤔 Je cherche de l'aide pour trouver un stage de 2 à 6 mois à partir du mois de Mars pour me perfectionner et enrichir mes compétences.
 * 📫 Comment me joindre : fro.marion94@gmail.com
 <details> 
