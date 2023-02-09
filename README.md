@@ -3,7 +3,7 @@
 ### Bonjour 👋 
 * 👩 Je m'appelle Marion!
 * 🌱 Développeuse web front-end spécialisée en React.js.
-* 🤔 Je cherche de l'aide pour trouver un stage de 2 à 6 mois à partir du mois de Mars pour me perfectionner et enrichir mes compétences.
+* 🤔 Je cherche un stage de 2 à 6 mois à partir du mois de Mars pour me perfectionner et enrichir mes compétences.
 * 📫 Comment me joindre : fro.marion94@gmail.com
 <details> 
   <summary><b>✨À propos de moi</b></summary><br/> 
@@ -21,10 +21,6 @@
       </ul>
     </li>
   </ul>
-
-⚡ Fun fact : Je suis actuellement en reconversion professionnelle, auparavent j'étais démonstratrice pour une marque de luxe d'esthétique. 
-Grâce à mon expérience passée j'ai pu acquérir des notions sur les besoins des clients notamment sur leurs exigences de consommation.
-Je suis très sensible à l'aspect visuel des choses qui m'entourent, de ce fait l'UX/UI à une grande importance pour moi. J'aime codé du fonctionnel mais aussi du "beau". J'aimerais pouvoir travailler dans une entreprise qui me permettra d'aiguiser ces notions.
 </details>
 <details> 
     <summary><b>🛠️ Languages et outils</b></summary><br/> 
