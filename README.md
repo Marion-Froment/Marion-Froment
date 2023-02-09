@@ -26,12 +26,6 @@
 Grâce à mon expérience passée j'ai pu acquérir des notions sur les besoins des clients notamment sur leurs exigences de consommation.
 Je suis très sensible à l'aspect visuel des choses qui m'entourent, de ce fait l'UX/UI à une grande importance pour moi. J'aime codé du fonctionnel mais aussi du "beau". J'aimerais pouvoir travailler dans une entreprise qui me permettra d'aiguiser ces notions.
 </details>
-
-<details> 
-    <summary><b>📈 Mes statistiques GitHub</b></summary><br/> 
-<img src=" https://github-readme-stats.vercel.app/api/top-langs?username=Marion-Froment&layout=compact&theme=dark"/>
-</details>
-
 <details> 
     <summary><b>🛠️ Languages et outils</b></summary><br/> 
 <ul>
@@ -52,4 +46,8 @@ Je suis très sensible à l'aspect visuel des choses qui m'entourent, de ce fait
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></img>
 </ul>
+</details>
+<details> 
+    <summary><b>📈 Mes statistiques GitHub</b></summary><br/> 
+<img src=" https://github-readme-stats.vercel.app/api/top-langs?username=Marion-Froment&layout=compact&theme=dark"/>
 </details>
