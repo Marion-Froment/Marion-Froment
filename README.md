@@ -1,9 +1,9 @@
 # Marion Froment
 
 ### Bonjour 👋 
-* 👩 Je m'appelle Marion!
+* 👩 Je m'appelle Marion !
 * 🌱 Développeuse web front-end spécialisée en React.js.
-* 🤔 Je cherche un stage de 2 à 6 mois à partir du mois de mars pour acquérir une première expérience dans le developpement web et pour consolider mes acquis appris au sein de la formation "développement web et web mobile" chez O'clock.
+* 🤔 Je cherche un stage d'une durée allant de 2 à 6 mois à partir du mois de mars pour acquérir une première expérience dans le monde du developpement web et pour consolider mes acquis appris au sein de la formation "développement web et web mobile" chez O'clock.
 * 📫 Comment me joindre : fro.marion94@gmail.com
 <details> 
   <summary><b>✨À propos de moi</b></summary><br/> 
